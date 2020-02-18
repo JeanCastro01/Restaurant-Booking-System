@@ -28,7 +28,7 @@ public class Bookingrestaurant {
      
         
         customer c1 = new customer ("Amilcar", "amilcar@cct.ie");
-        customer c2 = new customer ("ken","ken@ctt.ie");
+        customer c2 = new customer ("ken","ken@ctt.ieee");
         
         
         t1.book(c1);
